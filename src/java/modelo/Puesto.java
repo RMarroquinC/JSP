@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.util.HashMap;
 /**
  *
- * @author yeymi
+ * @author IT
  */
 public class Puesto {
     private int id_puesto;

@@ -11,7 +11,7 @@ import modelo.Empleado;
 
 /**
  *
- * @author yeymi
+ * @author IT
  */
 public class sr_empleados extends HttpServlet {
 

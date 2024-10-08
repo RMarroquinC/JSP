@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author yeymi
+ * @author IT
  */
 abstract class Persona {
     private int id;

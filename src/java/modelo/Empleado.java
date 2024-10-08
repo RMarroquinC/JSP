@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
         
 /**
  *
- * @author yeymi
+ * @author IT
  */
 public class Empleado extends Persona {
     private String codigo;
